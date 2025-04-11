@@ -16,14 +16,7 @@ It also features a professional-looking **burger menu** for extra pages like **A
 - ✅ Final price popup with friendly feedback
 - 🔐 No login or data collection involved
 
----
 
-## 📸 Interface Preview
-
-> _You can add screenshots here once available_  
-> (e.g. GUI, cart area, and opened Help window with clickable link)
-
----
 
 ## 🚀 Technologies Used
 
@@ -34,4 +27,5 @@ It also features a professional-looking **burger menu** for extra pages like **A
 ---
 
 ## 📁 Project Structure
+  cyber-courses-shopping-cart/ ├── shopping_cart.py ├── README.md └── dist/ └── shopping_cart.exe
 
